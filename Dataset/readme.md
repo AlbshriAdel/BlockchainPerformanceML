@@ -1,6 +1,6 @@
 # Blockchain Data Analysis and Performance Prediction
 
-@author: Adel Albishri
+@author: Adel Albshri
 
 This file contains a description of the blockchain data generated from a simulator for the purpose of predicting the performance of a blockchain system. We ran the simulator 184 times with different configurations to have a dataset that can be split into training and testing. The data file contains several sheets. A detailed description is as follows:
   
